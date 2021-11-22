@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+
+.banner{
+    background-color: rgb(10, 147, 231);
+    background-image: url(../img/pattern.png);
+    background-size: 400px;
+    height: 100px;
+}
+
+.logo{
+    height: 135px;
+    width: 200px;
+}
+
+#titolo{
+    margin-bottom: 0;
+}
+
+#autore-data{
+    color: rgb(175, 175, 175);
+
+}
+
+#booleaner{
+    text-decoration: none;
+    color: rgb(103, 159, 231);
+}
+
+#h-autore{
+    margin: 0;
+}
+
+#h-data{
+    margin-top: 0;
+    
+    
+}
+
+#didascalia-uno{
+    margin: 0;
+}
+
+#didascalia-due{
+    margin-top: 0;
+}
