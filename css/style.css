@@ -14,6 +14,11 @@ body{
     width: 200px;
 }
 
+.container{
+    margin: 15px;
+    width: 70%;
+}
+
 #titolo{
     margin-bottom: 0;
 }
@@ -44,4 +49,12 @@ body{
 
 #didascalia-due{
     margin-top: 0;
+}
+
+#evidenziato{
+    background-color: yellow;
+}
+
+#tablehead{
+    background-color: rgb(2, 149, 247);
 }
